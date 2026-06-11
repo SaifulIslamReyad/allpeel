@@ -22,8 +22,8 @@
    },
    "incognito": "split",
    "manifest_version": 3,
-   "name": "ProfPeel",
+   "name": "allpeel",
    "permissions": [ "webRequest", "activeTab" ],
-   "version": "99.0"
+   "version": "1.0"
 }
 
